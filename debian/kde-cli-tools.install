@@ -1,0 +1,4 @@
+usr/bin
+usr/lib/*/libexec
+usr/lib/*/libkdeinit5_kcmshell5.so
+usr/lib/*/qt5
