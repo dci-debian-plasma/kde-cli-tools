@@ -57,20 +57,26 @@ Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kde-cli
 Package: kde-cli-tools
 Section: utils
 Architecture: any
-Depends: kde-cli-tools-data (= ${binary:Version}),
+Depends: kde-cli-tools-data (= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
-Description: System Settings interface
- Desktop configuration application.
+Description: tools to use KDE services from the command line
+ These command line tools enable you to use KDE services such as
+ kioslaves, kdesu, QtSVG, kcontrol modules, KDE trader and start
+ applications from the command line.
  .
- This package is part of the KDE base workspace module.
+ This package is part of the KDE Plasma.
 
 Package: kde-cli-tools-data
 Section: libs
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: System Settings interface data files
- Desktop configuration application.
+Description: tools to use kioslaves from the command line
+ These command line tools enable you to use KDE services such as
+ kioslaves, kdesu, QtSVG, kcontrol modules, KDE trader and start
+ applications from the command line.
+ .
+ This package is part of the KDE Plasma.
  .
  This package contains the data files
 
@@ -79,7 +85,11 @@ Section: debug
 Architecture: any
 Recommends: qtbase5-dbg
 Depends: kde-cli-tools (= ${binary:Version}), ${misc:Depends}
-Description: System Settings interface debug files
- Desktop configuration application.
+Description: tools to use kioslaves from the command line
+ These command line tools enable you to use KDE services such as
+ kioslaves, kdesu, QtSVG, kcontrol modules, KDE trader and start
+ applications from the command line.
+ .
+ This package is part of the KDE Plasma.
  .
  This package contains the debugging symbols.
