@@ -46,6 +46,7 @@ Build-Depends: cmake,
                libkf5windowsystem-dev (>= 4.99.0),
                libkf5xmlgui-dev (>= 4.99.0),
                libqt5svg5-dev,
+               libqt5x11extras5-dev,
                pkg-kde-tools,
                qtbase5-dev,
                xvfb
