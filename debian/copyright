@@ -3,7 +3,7 @@ Upstream-Name: kde-cli-tools
 Source: ftp://ftp.kde.org/pub/kde/unstable/plasma/kde-cli-tools
 
 Files: *
-           © 1998-2014 Free Software Foundation Inc.
+Copyright: © 1998-2014 Free Software Foundation Inc.
            © 2005-2014 Chusslove Illich <caslav.ilic@gmx.net>
            © 2009-2011 Dalibor Djuric <dalibor.djuric@mozilla-srbija.org> <dalibor.djuric@gmail.com> <daliborddjuric@gmail.com>
            © 1997-2009 David Faure <faure@kde.org>

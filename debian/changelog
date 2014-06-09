@@ -6,4 +6,7 @@ kde-cli-tools (4.97.0-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * New upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 09 Jun 2014 10:208 +0100
+  [ Scarlett Clark ]
+  * Fix copyright file 
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 09 Jun 2014 10:20:08 +0100
