@@ -27,13 +27,6 @@ kde-cli-tools (4:5.1.1-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 10 Nov 2014 19:40:44 +0100
-
-kde-cli-tools (4:5.1.0.1-0ubuntu1) UNRELEASED; urgency=medium
-
-  [ Jonathan Riddell ]
-  * New upstream beta release
-
   [ Harald Sitter ]
   * Lintian cleanup
     + Override manpage warnings as we do not generally provide manpages
@@ -41,11 +34,7 @@ kde-cli-tools (4:5.1.0.1-0ubuntu1) UNRELEASED; urgency=medium
       startup helper that is specific to the kinit framework. Kdeinit libs
       are neither fully qualified libraries nor are they supposed to be.
 
-  [ Jonathan Riddell ]
-  * New upstream release
-  * New upstream release with fixed tar
-
- -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 14 Oct 2014 13:47:15 +0200
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 10 Nov 2014 19:40:44 +0100
 
 kde-cli-tools (4:5.0.2-0ubuntu1) utopic; urgency=medium
 
@@ -54,7 +43,7 @@ kde-cli-tools (4:5.0.2-0ubuntu1) utopic; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release
-  * Remove no-human-maintainers lintian-override per ScottK. 
+  * Remove no-human-maintainers lintian-override per ScottK.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 17 Sep 2014 18:12:54 -0700
 
@@ -86,6 +75,6 @@ kde-cli-tools (4:4.97.0-0ubuntu1) utopic; urgency=medium
   * New upstream beta release
 
   [ Scarlett Clark ]
-  * Fix copyright file 
+  * Fix copyright file
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 09 Jun 2014 10:20:08 +0100
