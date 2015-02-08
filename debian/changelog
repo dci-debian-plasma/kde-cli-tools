@@ -1,4 +1,4 @@
-kde-cli-tools (4:5.2.0-1~) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.2.0-1) experimental; urgency=medium
 
   * Prepare initial Debian release.
   * Add myself as Uploader.
@@ -9,7 +9,7 @@ kde-cli-tools (4:5.2.0-1~) UNRELEASED; urgency=medium
   * Update install files.
   * Update watch file.
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 08 Feb 2015 12:03:04 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 08 Feb 2015 20:58:45 +0100
 
 kde-cli-tools (4:5.2.0-0ubuntu1) vivid; urgency=medium
 
