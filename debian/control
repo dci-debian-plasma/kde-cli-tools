@@ -21,7 +21,7 @@ Build-Depends: cmake (>= 2.8.12),
                xvfb
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-cli-tools
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/kde-cli-tools.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/kde-cli-tools.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kde-cli-tools.git
 
 Package: kde-cli-tools
