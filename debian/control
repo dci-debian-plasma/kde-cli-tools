@@ -50,8 +50,8 @@ Package: kde-cli-tools-dbg
 Section: debug
 Priority: extra
 Architecture: any
-Recommends: qtbase5-dbg
 Depends: kde-cli-tools (= ${binary:Version}), ${misc:Depends}
+Recommends: qtbase5-dbg
 Description: tools to use kioslaves from the command line
  These command line tools enable you to use KDE services such as
  kioslaves, kdesu, QtSVG, kcontrol modules, KDE trader and start
