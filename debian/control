@@ -16,7 +16,7 @@ Build-Depends: cmake,
                libqt5x11extras5-dev,
                pkg-kde-tools (>= 0.15.15ubuntu1~),
                xvfb
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Section: libs
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-cli-tools
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/kde-cli-tools.git
