@@ -1,8 +1,8 @@
-kde-cli-tools (4:5.2.2-0ubuntu1) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 19 Mar 2015 13:37:28 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 07:11:35 -0700
 
 kde-cli-tools (4:5.2.1-0ubuntu1) vivid; urgency=medium
 
