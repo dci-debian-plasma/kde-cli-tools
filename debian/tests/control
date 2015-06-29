@@ -1,0 +1,6 @@
+Tests: testsuite
+Depends: @, @builddeps@, xvfb, xauth, dbus-x11
+Restrictions: build-needed
+
+# Tests: acc
+# Depends: @, dh-acc, exuberant-ctags
