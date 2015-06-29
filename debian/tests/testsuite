@@ -1,3 +1,5 @@
 #!/bin/sh
 
-xvfb-run -a dh_auto_test
+export HOME=$(mktemp -d)
+
+xvfb-run -a dbus-launch --exit-with-session dh_auto_test
