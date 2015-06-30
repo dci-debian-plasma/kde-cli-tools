@@ -2,4 +2,5 @@
 
 export HOME=$(mktemp -d)
 
-xvfb-run -a dbus-launch --exit-with-session dh_auto_test
+xvfb-run -a --server-args="-screen 0 1024x768x24+32" \
+    dbus-launch --exit-with-session debian/tests/testsuite.xsession
