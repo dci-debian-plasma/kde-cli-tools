@@ -16,7 +16,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5windowsystem-dev (>= 5.2.0),
                libqt5svg5-dev (>= 5.4.0~),
                libqt5x11extras5-dev (>= 5.4.0~),
-               pkg-kde-tools (>= 0.15.15ubuntu1~),
+               pkg-kde-tools (>= 0.15.18~),
                qtbase5-dev (>= 5.4.0~)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-cli-tools
@@ -38,6 +38,8 @@ Description: tools to use KDE services from the command line
 Package: kde-cli-tools-data
 Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: tools to use kioslaves from the command line
  These command line tools enable you to use KDE services such as
  kioslaves, kdesu, QtSVG, kcontrol modules, KDE trader and start
