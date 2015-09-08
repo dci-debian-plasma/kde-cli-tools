@@ -26,6 +26,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kde-cli-tools.git
 Package: kde-cli-tools
 Architecture: any
 Depends: kde-cli-tools-data (= ${source:Version}),
+         kio,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: tools to use KDE services from the command line
