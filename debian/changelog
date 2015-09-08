@@ -1,4 +1,4 @@
-kde-cli-tools (4:5.4.1-0ubuntu2) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.4.1-0ubuntu2) wily; urgency=medium
 
   * Depend on kio as kde-open5 uses the kioexec binary
 
