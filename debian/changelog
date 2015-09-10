@@ -5,11 +5,39 @@ kde-cli-tools (4:5.4.1-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 21:51:29 +0200
 
+kde-cli-tools (4:5.4.1-0ubuntu2) wily; urgency=medium
+
+  * Depend on kio as kde-open5 uses the kioexec binary
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 08 Sep 2015 15:23:55 +0200
+
+kde-cli-tools (4:5.4.1-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:12:23 +0100
+
 kde-cli-tools (4:5.4.0-1) unstable; urgency=medium
 
   * New upstream release (5.4.0).
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 13:50:20 +0200
+
+kde-cli-tools (4:5.4.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 31 Aug 2015 15:47:32 +0100
+
+kde-cli-tools (4:5.3.95-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * Vivid backport
+
+  [ Jonathan Riddell ]
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 10 Aug 2015 23:12:08 +0200
 
 kde-cli-tools (4:5.3.2-2) unstable; urgency=medium
 
@@ -23,6 +51,12 @@ kde-cli-tools (4:5.3.2-1) unstable; urgency=medium
   * Update copyright information.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 30 Jun 2015 20:37:29 +0200
+
+kde-cli-tools (4:5.3.2-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 02 Jul 2015 12:26:12 +0000
 
 kde-cli-tools (4:5.3.1-0ubuntu1) wily; urgency=medium
 
