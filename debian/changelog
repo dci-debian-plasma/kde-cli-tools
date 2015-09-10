@@ -1,6 +1,7 @@
 kde-cli-tools (4:5.4.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.4.1).
+  * New patch: disable_failing_tests
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 21:51:29 +0200
 
