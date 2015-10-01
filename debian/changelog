@@ -1,3 +1,9 @@
+kde-cli-tools (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 07:19:33 -0700
+
 kde-cli-tools (4:5.4.1-0ubuntu2) wily; urgency=medium
 
   * Depend on kio as kde-open5 uses the kioexec binary
