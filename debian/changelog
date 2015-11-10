@@ -1,3 +1,9 @@
+kde-cli-tools (4:5.4.3-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Nov 2015 15:58:42 -0800
+
 kde-cli-tools (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * Vivid backport
