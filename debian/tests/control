@@ -1,0 +1,8 @@
+Tests: testsuite
+Depends: @, @builddeps@, xvfb, xauth, dbus-x11,
+         openbox, libkf5service-bin, kded5
+Restrictions: build-needed
+
+# Tests: acc
+# Depends: @, dh-acc, exuberant-ctags
+# Restrictions: allow-stderr
