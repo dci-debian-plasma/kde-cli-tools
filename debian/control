@@ -16,12 +16,8 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5windowsystem-dev (>= 5.2.0),
                libqt5svg5-dev (>= 5.4.0~),
                libqt5x11extras5-dev (>= 5.4.0~),
-<<<<<<< HEAD
                pkg-config,
-               pkg-kde-tools (>= 0.15.15ubuntu1~),
-=======
                pkg-kde-tools (>= 0.15.18~),
->>>>>>> master
                qtbase5-dev (>= 5.4.0~)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-cli-tools
