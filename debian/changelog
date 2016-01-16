@@ -6,7 +6,6 @@ kde-cli-tools (4:5.5.3-0ubuntu1) UNRELEASED; urgency=medium
   * Bump kf5 version for build dependencies. 
 
   [ Clive Johnston ]
-  * new upstream release
   * New upstream release
 
   [ Scarlett Clark ]
