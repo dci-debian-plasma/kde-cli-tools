@@ -51,18 +51,3 @@ Description: tools to use kioslaves from the command line
  This package is part of the KDE Plasma.
  .
  This package contains the data files
-
-Package: kde-cli-tools-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Depends: kde-cli-tools (= ${binary:Version}), ${misc:Depends}
-Recommends: qtbase5-dbg
-Description: tools to use kioslaves from the command line
- These command line tools enable you to use KDE services such as
- kioslaves, kdesu, QtSVG, kcontrol modules, KDE trader and start
- applications from the command line.
- .
- This package is part of the KDE Plasma.
- .
- This package contains the debugging symbols.
