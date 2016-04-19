@@ -1,10 +1,23 @@
-kde-cli-tools (4:5.6.2-1~1.gbpd9ae77) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.6.3-1~1.gbp7836b5) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @7836b558674cbd484f5d8ea3ab651d94af44b16b **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @d9ae77c38d963eb216b6d3fa387fab463059c30e **
 
   * Refresh patches
+  * Bump Standards-Version to 3.9.8
+  * Refresh patches
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 06 Apr 2016 23:03:14 +0200
+  [ Maximiliano Curia ]
+  * uscan no longer supports this kind of watch files.
+  * New upstream release (5.5.5).
+  * Automatic update with ddeb_migration3.py
+  * Add upstream metadata (DEP-12)
+  * testsuite: Add XDG_DATA_DIRS environment variable
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 20:05:14 +0200
 
 kde-cli-tools (4:5.5.5-1~) UNRELEASED; urgency=medium
 
