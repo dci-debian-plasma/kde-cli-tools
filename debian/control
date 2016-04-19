@@ -20,7 +20,7 @@ Build-Depends: cmake (>= 2.8.12),
                libqt5x11extras5-dev (>= 5.4.0~),
                pkg-kde-tools (>= 0.15.18~),
                qtbase5-dev (>= 5.4.0~)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-cli-tools
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/kde-cli-tools.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/kde-cli-tools.git
