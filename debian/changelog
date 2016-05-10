@@ -1,6 +1,6 @@
-kde-cli-tools (4:5.6.3-1~1.gbp7836b5) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.6.4-1~1.gbp6b4f17) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @7836b558674cbd484f5d8ea3ab651d94af44b16b **
+  ** SNAPSHOT build @6b4f178bf1abde747a0ff0684a38012c70f650ca **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @d9ae77c38d963eb216b6d3fa387fab463059c30e **
@@ -16,8 +16,9 @@ kde-cli-tools (4:5.6.3-1~1.gbp7836b5) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * testsuite: Add XDG_DATA_DIRS environment variable
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 20:05:14 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 01:03:15 +0200
 
 kde-cli-tools (4:5.5.5-1~) UNRELEASED; urgency=medium
 
