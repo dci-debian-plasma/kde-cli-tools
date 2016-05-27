@@ -1,10 +1,6 @@
-kde-cli-tools (4:5.6.4-1~1.gbp6b4f17) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @6b4f178bf1abde747a0ff0684a38012c70f650ca **
+kde-cli-tools (4:5.6.4-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @d9ae77c38d963eb216b6d3fa387fab463059c30e **
-
   * Refresh patches
   * Bump Standards-Version to 3.9.8
   * Refresh patches
@@ -16,15 +12,8 @@ kde-cli-tools (4:5.6.4-1~1.gbp6b4f17) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * testsuite: Add XDG_DATA_DIRS environment variable
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 01:03:15 +0200
-
-kde-cli-tools (4:5.5.5-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.5.5).
-
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Mar 2016 17:31:37 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 01:34:04 +0200
 
 kde-cli-tools (4:5.5.4-1) experimental; urgency=medium
 
