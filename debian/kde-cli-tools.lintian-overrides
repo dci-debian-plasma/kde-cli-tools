@@ -11,3 +11,4 @@ kde-cli-tools: binary-without-manpage usr/bin/ksvgtopng5
 kde-cli-tools: binary-without-manpage usr/bin/ktraderclient5
 kde-cli-tools: shlib-without-versioned-soname usr/lib/*/libkdeinit5_kcmshell5.so libkdeinit5_kcmshell5.so
 kde-cli-tools: postinst-must-call-ldconfig usr/lib/*/libkdeinit5_kcmshell5.so
+kde-cli-tools: package-must-activate-ldconfig-trigger usr/lib/*/libkdeinit5_kcmshell5.so
