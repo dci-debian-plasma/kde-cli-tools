@@ -1,12 +1,13 @@
-kde-cli-tools (4:5.6.4-2~1.gbpba2f9a) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.6.5-1~1.gbp9d7f60) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @ba2f9afe24599cb36bc1e9932bdbd93f26031876 **
+  ** SNAPSHOT build @9d7f6089c59eb554ba9434fdd52dfe3dbac53f59 **
 
   * Add new libkdeinit5_kcmshell5.so lintian-override
   * Add swrast for the autotests
   * Update testsuite script
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 03 Jun 2016 16:03:21 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 19:03:14 +0200
 
 kde-cli-tools (4:5.6.4-1) unstable; urgency=medium
 
