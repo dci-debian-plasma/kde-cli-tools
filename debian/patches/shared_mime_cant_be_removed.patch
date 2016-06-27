@@ -1,0 +1,13 @@
+--- a/keditfiletype/tests/filetypestest.cpp
++++ b/keditfiletype/tests/filetypestest.cpp
+@@ -149,7 +149,9 @@
+ 
+         // When the user changes the patterns
+         const QStringList origPatterns = patterns;
+-        patterns.removeAll("*.txt");
++        // The shared mime specification doesn't allow removing patterns from
++        // user dir to a system dir
++        // patterns.removeAll("*.txt");
+         patterns.append("*.toto"); // yes, a french guy wrote this, as you can see
+         patterns.sort(); // for future comparisons
+         QVERIFY(!data.isDirty());
