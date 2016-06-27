@@ -1,13 +1,11 @@
-kde-cli-tools (4:5.6.5-1~1.gbp9d7f60) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @9d7f6089c59eb554ba9434fdd52dfe3dbac53f59 **
+kde-cli-tools (4:5.6.5-1) unstable; urgency=medium
 
   * Add new libkdeinit5_kcmshell5.so lintian-override
   * Add swrast for the autotests
   * Update testsuite script
-  * UNRELEASED
+  * Add new patch: shared_mime_cant_be_removed.patch
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 19:03:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 27 Jun 2016 08:34:18 +0200
 
 kde-cli-tools (4:5.6.4-1) unstable; urgency=medium
 
