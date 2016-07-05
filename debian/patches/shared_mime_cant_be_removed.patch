@@ -1,6 +1,16 @@
+From: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Date: Tue, 5 Jul 2016 19:03:19 +0200
+Subject: shared_mime_cant_be_removed
+
+---
+ keditfiletype/tests/filetypestest.cpp | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/keditfiletype/tests/filetypestest.cpp b/keditfiletype/tests/filetypestest.cpp
+index e14679a..71eb64a 100644
 --- a/keditfiletype/tests/filetypestest.cpp
 +++ b/keditfiletype/tests/filetypestest.cpp
-@@ -149,7 +149,9 @@
+@@ -152,7 +152,9 @@ private Q_SLOTS:
  
          // When the user changes the patterns
          const QStringList origPatterns = patterns;
