@@ -1,3 +1,11 @@
+kde-cli-tools (4:5.7.0-1~1.gbpe24eff) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @e24efff5a706179c36251de978816df8f755afe5 **
+
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 05 Jul 2016 19:03:23 +0200
+
 kde-cli-tools (4:5.6.5-1) unstable; urgency=medium
 
   * Add new libkdeinit5_kcmshell5.so lintian-override
