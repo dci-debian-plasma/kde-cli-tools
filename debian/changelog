@@ -1,3 +1,11 @@
+kde-cli-tools (4:5.7.1-1~1.gbp7897c2) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @7897c23b79619010cb2eb3f2d96beb1fd53a87e0 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 19:03:16 +0200
+
 kde-cli-tools (4:5.7.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
