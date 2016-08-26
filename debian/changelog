@@ -1,14 +1,9 @@
-kde-cli-tools (4:5.7.4-1~2.gbp090506) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.7.4-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @0905067c031525bb3cc4a0e855d0cb5e27294e2a **
-
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
+  * New upstream release (5.7.4)
   * Bump group breaks (5.7)
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 26 Aug 2016 11:03:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 26 Aug 2016 14:47:07 +0200
 
 kde-cli-tools (4:5.7.0-1) unstable; urgency=medium
 
