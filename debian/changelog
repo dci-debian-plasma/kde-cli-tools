@@ -1,3 +1,11 @@
+kde-cli-tools (4:5.7.5-1~1.gbp5976ae) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @5976aea1dbcd24c23f704b5ee0b9c1c22f003e90 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 13 Sep 2016 19:03:41 +0200
+
 kde-cli-tools (4:5.7.4-1) unstable; urgency=medium
 
   * New upstream release (5.7.4)
