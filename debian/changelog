@@ -1,11 +1,20 @@
-kde-cli-tools (4:5.8.0-1~1.gbp19fe23) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.8.0-1~2.gbpf2bb14) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @f2bb14f90ea82750adf900e25a563ff5101a33e6 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @19fe23b50cf42146bef56bd11f7c7f509c106c29 **
 
   * Update build-deps and deps with the info from cmake
   * UNRELEASED
 
- -- Automatic packaging <jenkins@gnuservers.com.ar>  Tue, 04 Oct 2016 13:39:21 +0200
+  [ Harald Sitter ]
+  * bdep on pkg-config as per upstream cmake checks
+
+  [ Maximiliano Curia ]
+  * Replace dbus-launch with dbus-run-session in tests
+
+ -- Harald Sitter <sitter@kde.org>  Wed, 05 Oct 2016 18:03:28 +0200
 
 kde-cli-tools (4:5.7.4-1) unstable; urgency=medium
 
