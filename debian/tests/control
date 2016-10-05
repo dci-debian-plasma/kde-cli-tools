@@ -1,5 +1,5 @@
 Tests: testsuite
-Depends: @, @builddeps@, xvfb, xauth, dbus-x11,
+Depends: @, @builddeps@, xvfb, xauth, dbus (>= 1.8),
          openbox, libkf5service-bin, kinit, kded5, libgl1-mesa-dri
 Restrictions: build-needed
 

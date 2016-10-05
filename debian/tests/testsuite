@@ -8,4 +8,4 @@ mkdir -p "$HOME"/.config || true
 mkdir -p "$HOME"/.kde-unit-test || true
 
 xvfb-run -a --server-args="-screen 0 1024x768x24+32" \
-    dbus-launch --exit-with-session debian/tests/testsuite.xsession
+    dbus-run-session -- debian/tests/testsuite.xsession
