@@ -1,21 +1,19 @@
-kde-cli-tools (4:5.8.0-1~3.gbpca433d) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @ca433d9bbdac08a65682f0499dd77398f44ad342 **
+kde-cli-tools (4:5.8.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
   [ Harald Sitter ]
   * bdep on pkg-config as per upstream cmake checks
-  * UNRELEASED
 
   [ Maximiliano Curia ]
   * New upstream release. (Closes: #839865)
     - Fixes CVE-2016-7787
       https://security-tracker.debian.org/tracker/CVE-2016-7787
   * Replace dbus-launch with dbus-run-session in tests
+  * Bump group breaks (5.8)
 
- -- Harald Sitter <jenkins@gnuservers.com.ar>  Thu, 06 Oct 2016 11:03:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 07 Oct 2016 14:02:03 +0200
 
 kde-cli-tools (4:5.7.4-1) unstable; urgency=medium
 
