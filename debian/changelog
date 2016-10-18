@@ -1,3 +1,11 @@
+kde-cli-tools (4:5.8.2-1~1.gbpbc4a31) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @bc4a31369c016199bacc4ac5793e25a47636af73 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 18 Oct 2016 19:03:32 +0200
+
 kde-cli-tools (4:5.8.1-1) unstable; urgency=medium
 
   * New upstream release (5.8.1).
