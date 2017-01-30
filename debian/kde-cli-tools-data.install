@@ -1,11 +1,4 @@
 usr/share/doc/*/*/kdesu/
 usr/share/doc/HTML/*/kcontrol5/
 usr/share/kservices5/filetypes.desktop
-usr/share/locale/*/*/filetypes.mo
-usr/share/locale/*/*/kcmshell.mo
-usr/share/locale/*/*/kdesu.mo
-usr/share/locale/*/*/kioclient.mo
-usr/share/locale/*/*/kmimetypefinder.mo
-usr/share/locale/*/*/kstart.mo
-usr/share/locale/*/*/kstart.mo
-usr/share/locale/*/*/ktraderclient.mo
+usr/share/locale/
