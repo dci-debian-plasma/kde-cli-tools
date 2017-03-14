@@ -30,6 +30,7 @@ Package: kde-cli-tools
 Architecture: any
 Depends: kde-cli-tools-data (= ${source:Version}),
          kio,
+         libkf5su-bin,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: tools to use KDE services from the command line
