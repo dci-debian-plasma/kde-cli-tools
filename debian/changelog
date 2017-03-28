@@ -1,3 +1,10 @@
+kde-cli-tools (4:5.8.4-2) unstable; urgency=medium
+
+  * Add libkf5su-bin hard dependency.
+    Thanks to Martin Graesslin for reporting (Closes: 807402)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 28 Mar 2017 13:00:51 +0200
+
 kde-cli-tools (4:5.8.4-1) unstable; urgency=medium
 
   * New upstream release (5.8.4)
