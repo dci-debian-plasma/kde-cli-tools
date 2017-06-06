@@ -1,3 +1,16 @@
+kde-cli-tools (4:5.8.7-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.8.7)
+     + Fix query for available modules
+       The old query was bad because two reasons:
+        * it didn't use the same query systemsettings uses
+        * it didn't use exist so if the first property did not exist the
+          second one was not evaluated since the parser bailed out
+       Test Plan: Ran kcmshell5 --list, it's better now
+       This fixes KDE#378548
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Jun 2017 17:20:46 +0200
+
 kde-cli-tools (4:5.8.5-1) experimental; urgency=medium
 
   * New upstream release (5.8.5).
