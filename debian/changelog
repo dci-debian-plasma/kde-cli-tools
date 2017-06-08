@@ -1,4 +1,4 @@
-kde-cli-tools (4:5.8.7-1~) UNRELEASED; urgency=medium
+kde-cli-tools (4:5.8.7-1) unstable; urgency=medium
 
   * New upstream release (5.8.7)
      + Fix query for available modules
@@ -9,7 +9,7 @@ kde-cli-tools (4:5.8.7-1~) UNRELEASED; urgency=medium
        Test Plan: Ran kcmshell5 --list, it's better now
        This fixes KDE#378548
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Jun 2017 17:20:46 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 08 Jun 2017 16:15:10 +0200
 
 kde-cli-tools (4:5.8.5-1) experimental; urgency=medium
 
