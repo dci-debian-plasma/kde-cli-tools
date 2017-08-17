@@ -21,7 +21,7 @@ Build-Depends: cmake (>= 2.8.12),
                libqt5x11extras5-dev (>= 5.4.0~),
                pkg-config,
                pkg-kde-tools (>= 0.15.18~),
-               qtbase5-dev (>= 5.4.0~)
+               qtbase5-dev (>= 5.4.0~),
 Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/kde/workspace/kde-cli-tools
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/kde-cli-tools.git
@@ -33,7 +33,7 @@ Depends: kde-cli-tools-data (= ${source:Version}),
          kio,
          libkf5su-bin,
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Description: tools to use KDE services from the command line
  These command line tools enable you to use KDE services such as
  kioslaves, kdesu, QtSVG, kcontrol modules, KDE trader and start
@@ -42,7 +42,7 @@ Description: tools to use KDE services from the command line
  This package is part of the KDE Plasma.
 Breaks: kscreen (<< 4:5.10),
         plasma-desktop (<< 4:5.10),
-        plasma-workspace (<< 4:5.10)
+        plasma-workspace (<< 4:5.10),
 
 Package: kde-cli-tools-data
 Architecture: all
