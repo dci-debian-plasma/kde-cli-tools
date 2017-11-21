@@ -54,7 +54,7 @@ Description: tools to use kioslaves from the command line
 
 Package: kde-cli-tools-dbg
 Section: debug
-Priority: extra
+Priority: optional
 Architecture: any
 Depends: kde-cli-tools (= ${binary:Version}), ${misc:Depends}
 Recommends: qtbase5-dbg
@@ -66,3 +66,4 @@ Description: tools to use kioslaves from the command line
  This package is part of the KDE Plasma.
  .
  This package contains the debugging symbols.
+
