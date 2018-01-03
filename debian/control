@@ -41,9 +41,9 @@ Description: tools to use KDE services from the command line
  applications from the command line.
  .
  This package is part of the KDE Plasma.
-Breaks: kscreen (<< 4:5.10),
-        plasma-desktop (<< 4:5.10),
-        plasma-workspace (<< 4:5.10),
+Breaks: kscreen (<< 4:5.11),
+        plasma-desktop (<< 4:5.11),
+        plasma-workspace (<< 4:5.11),
 
 Package: kde-cli-tools-data
 Architecture: all
